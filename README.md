@@ -1,4 +1,4 @@
-** Example of using ChatGPT function calling to cleanup python code.
+**Example of using ChatGPT function calling to cleanup python code.
 
 To run:
 ```
